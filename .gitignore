@@ -73,6 +73,7 @@ project/plugins/project/
 .history
 .cache
 .lib/
+.cache-tests
 
 ### Scala ###
 *.class
